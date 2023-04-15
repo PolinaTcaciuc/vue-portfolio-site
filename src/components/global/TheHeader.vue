@@ -2,7 +2,7 @@
 
 <template>
   <div class="container">
-    <header class="header row align-items-center">
+    <header data-aos="fade-down" class="header row align-items-center">
       <VLogo class="col-3 flex-grow-1" />
       <div class="col d-flex justify-content-end">
         <NavigationList />

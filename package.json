@@ -9,10 +9,12 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@types/aos": "^3.0.4",
     "nuxt": "^3.4.1",
     "sass": "^1.62.0"
   },
   "dependencies": {
+    "aos": "^2.3.4",
     "bootstrap": "^5.2.3"
   }
 }

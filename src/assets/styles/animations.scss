@@ -1,0 +1,69 @@
+/* skills */
+
+@keyframes scale-anim_scss {
+    0%{
+        background: var(--scss-color);
+    }
+    50%{
+        background:  rgb(173, 17, 182);
+}
+    100%{
+        background: var(--scss-color);
+    }
+}
+@keyframes scale-anim_html {
+    0%{
+        background: var(--html-color);
+    }
+    50%{
+        background: rgb(135, 80, 8);
+}
+    100%{
+        background: var(--html-color);
+    }
+}
+@keyframes scale-anim_js {
+    0%{
+        background: var(--js-color);
+    }
+    50%{
+        background:  rgb(156, 151, 19);;
+}
+    100%{
+        background: var(--js-color);
+    }
+}
+@keyframes scale-anim_vue {
+    0%{
+        background: var(--vue-color);
+    }
+    50%{
+        background:  rgb(28, 92, 22);
+}
+    100%{
+        background: var(--vue-color);
+    }
+}
+@keyframes scale-anim_php {
+    0%{
+        background: var(--php-color);
+    }
+    50%{
+        background:  rgb(73, 46, 103);
+}
+    100%{
+        background: var(--php-color);
+
+    }
+}
+@keyframes scale-anim_nodejs {
+    0%{
+        background: var(--nodejs-color);
+    }
+    50%{
+        background:   rgb(9, 47, 11);
+}
+    100%{
+        background: var(--nodejs-color);
+    }
+}

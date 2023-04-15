@@ -27,7 +27,7 @@
     position: 100%;
     size: 300%;
   }
-  transition: background 300ms ease-in-out;
+  transition: background .4s ease-in-out;
   &:hover,
   &:focus {
     background-position: 0;
