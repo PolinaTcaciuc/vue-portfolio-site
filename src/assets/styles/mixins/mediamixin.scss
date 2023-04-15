@@ -1,0 +1,15 @@
+@mixin respond-to($media) {
+    @if $media == tb {
+      @media (min-width: $tb) {
+        @content;
+      }
+    } @else if $media == lp {
+      @media (min-width: $lp) {
+        @content;
+      }
+    } @else if $media == dt {
+      @media (min-width: $dt) {
+        @content;
+      }
+    }
+  }

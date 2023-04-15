@@ -1,0 +1,17 @@
+:root {
+  --white-primary: rgb(241, 245, 242);
+  --blue-primary: rgb(23, 18, 40);
+  --red-primary: rgb(189, 0, 64);
+  --green-color: rgb(9, 129, 74);
+  --grey-color-dark: rgb(116, 115, 115);
+  --grey-color: rgba(171, 178, 191, 1);
+  /* fonts */
+  --font-primary: 'Rubik', sans-serif;
+  /* z-index */
+  --zIndexBurgerMenu: 1500;
+  --header-footer-height: 100px;
+}
+// screen-size
+$tb: 750px;
+$lp: 950px;
+$dt: 1220px;
